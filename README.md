@@ -1,2 +1,2 @@
-# Repository-1
+# Repository1
 This is my repository 1.
